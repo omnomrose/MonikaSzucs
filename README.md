@@ -4,6 +4,12 @@
   <a href="https://www.youtube.com/channel/UCWK-MmaNmqadccH_uhtYAeQ?sub_confirmation=1">
   <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/views/UCWK-MmaNmqadccH_uhtYAeQ?color=%23CF2123&label=YouTube&style=flat-square">    
   </a>
+  
+  <a href="https://monikaszucs.com/">
+    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Portfolio%3A-Monika%20Szucs's%20Website-blue">
+  </a>
+  
+  
   <br><br>
 </p>
 
