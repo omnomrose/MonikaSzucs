@@ -1,6 +1,12 @@
-### Hi there 
-
 <h1 align="center">👋 Hello! My name is Monika Szucs</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCWK-MmaNmqadccH_uhtYAeQ?sub_confirmation=1">
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=FF0000"/>
+  </a>
+  <br><br>
+</p>
+
 
 <!--
 **MonikaSzucs/MonikaSzucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
