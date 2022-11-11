@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! My name is Monika Szucs</h2>
+
 <!--
 **MonikaSzucs/MonikaSzucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
