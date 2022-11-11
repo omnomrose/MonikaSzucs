@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://monikaszucs.com/">
-    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Portfolio%3A-Monika%20Szucs's%20Website-blue">
+    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Monika%20Szucs's%20Website-blue">
   </a>
   
   
