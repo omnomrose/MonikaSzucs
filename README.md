@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! My name is Monika Szucs</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCWK-MmaNmqadccH_uhtYAeQ?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UC8agiIh8FVOHDiS7BJq6kfw?sub_confirmation=1">
   <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/views/UCWK-MmaNmqadccH_uhtYAeQ?color=%23CF2123&label=YouTube&style=flat-square">    
   </a>
   
