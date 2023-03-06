@@ -13,6 +13,10 @@
   <br><br>
 </p>
 
+<h2>🔨 Technologies & Tools</h2>
+<p>
+  <a href="https://github.com/search?q=user%3AMonikaSzucs+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+</p>
 
 <!--
 **MonikaSzucs/MonikaSzucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
