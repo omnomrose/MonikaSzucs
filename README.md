@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is Monika Szucs</h2>
+<h1 align="center">👋 Hello! My name is Monika Szucs</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UC8agiIh8FVOHDiS7BJq6kfw?sub_confirmation=1">
